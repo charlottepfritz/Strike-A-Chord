@@ -1,6 +1,6 @@
 # Strike a Chord - Multiplayer Guitar Battle Game
 
-![Strike a Chord Logo](https://your-project-url.com/logo.png)
+![Strike a Chord Logo](strike-chord.png)
 
 
 ## Introduction
