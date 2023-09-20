@@ -23,14 +23,6 @@ Strike a Chord is designed with a client-server architecture using JavaScript an
 
 - **Graphics and Animation:** All in-game graphics, including the guitar fretboards, notes, and UI elements, are custom-designed. Animations are implemented using HTML5 Canvas for smooth rendering.
 
-### Music Integration
-
-Strike a Chord includes a collection of hand-picked music tracks to keep players engaged. The technical details of music integration include:
-
-- **Audio Playback:** Music tracks are played using the Web Audio API, providing precise timing for note synchronization with the gameplay.
-
-- **Music Selection:** Players can choose from a variety of songs, each with its unique rhythm and difficulty level. The game loads music assets dynamically, allowing for an extensive song library.
-
 ### Multiplayer Implementation
 
 Strike a Chord's multiplayer functionality is a technical feat that enhances the gaming experience. Key technical aspects include:
