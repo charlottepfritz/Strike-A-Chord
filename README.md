@@ -15,13 +15,13 @@ Welcome to **Strike a Chord**, a multiplayer guitar battle game that lets you fa
 
 Strike a Chord is designed with a client-server architecture using JavaScript and Node.js. Here's an overview of the technical components:
 
-- **Frontend:** The game's user interface is built with HTML5, CSS, and JavaScript, ensuring a smooth and responsive experience for players.
+- **Frontend:** The game's user interface is built with HTML and JavaScript, ensuring a smooth and responsive experience for players.
 
 - **Backend:** The server-side logic is powered by Node.js, providing real-time communication and game synchronization between players.
 
-- **Real-time Communication:** WebSockets are employed to enable real-time gameplay synchronization. Players' actions, such as strumming and pressing guitar frets, are instantly communicated to maintain gameplay consistency.
+- **Real-time Communication:** WebSockets are employed to enable real-time gameplay synchronization. Players' actions are instantly communicated to maintain gameplay consistency.
 
-- **Graphics and Animation:** All in-game graphics, including the guitar fretboards, notes, and UI elements, are custom-designed. Animations are implemented using HTML5 Canvas for smooth rendering.
+- **Graphics and Animation:** All in-game graphics, including the guitar fretboards, notes, and UI elements, are custom-designed.
 
 ### Multiplayer Implementation
 
