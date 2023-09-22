@@ -5,7 +5,7 @@
 
 ## Introduction
 
-Welcome to **Strike a Chord**, a multiplayer guitar battle game that lets you face off against a friend or a random player in an epic musical showdown! This project leverages JavaScript, Node.js, and real-time communication to create an electrifying gaming experience where players can challenge each other's rhythm and accuracy.
+Welcome to **Strike a Chord**, a multiplayer guitar battle game that lets you face off against a friend or a random player in an epic musical showdown! This project leverages JavaScript, Node.js, and real-time communication to create an electrifying gaming experience where players can challenge each other's rhythm and accuracy. I created this game as a personal project to enhance my understanding of server-side programming.
 
 🎸🎶🧡
 
