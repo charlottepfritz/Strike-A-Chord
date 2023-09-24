@@ -1,6 +1,6 @@
 # Strike a Chord - Multiplayer Guitar Battle Game
 
-[Link to Video Demo]([https://drive.google.com/file/d/1782cP1ssiX8DfzlJZsaiBZuFf-llZpzQ/view?usp=share_link])
+[Link to Video Demo](https://drive.google.com/file/d/1782cP1ssiX8DfzlJZsaiBZuFf-llZpzQ/view?usp=share_link)
 
 
 ## Introduction
